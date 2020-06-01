@@ -1,4 +1,4 @@
-This project was bootstrapped{React-bootstrap-table} with Create React App.
+This project was Bootstrapped{React-bootstrap-table} with Create React App.
 
 Available Scripts
 In the project directory, you can run:
